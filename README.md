@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm currently learning and developing skills in **Network 
 ## 💬 Get in Touch
 Feel free to connect with me! I'm always open to learning, collaborating, and discussing projects in **Networking**, **Cybersecurity**, and **Cloud Technologies**.
 
-- LinkedIn: https://www.linkedin.com/premofficial
+- LinkedIn: https://www.linkedin.com/in/premofficial
 - Email: siv.sin8@gmail.com
 
 ---
