@@ -1,16 +1,26 @@
-## Hi there 👋
+# Network & Cybersecurity Engineer Portfolio
 
-<!--
-**premhari-NE/premhari-NE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm currently learning and developing skills in **Network & Cybersecurity Engineering**, with a focus on **Cloud Technologies** (AWS & Azure). This repository contains my projects, labs, notes, and certifications as I work towards becoming a skilled professional in these fields.
 
-Here are some ideas to get you started:
+## 📚 Technologies I'm Learning
+- **Networking**: Cisco NetAcad (Netacad)
+- **Cybersecurity**: (ISC)² certifications
+- **Cloud Technologies**: AWS, Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- Pursuing certifications in **Networking** and **Cybersecurity**.
+- Gaining hands-on experience with **AWS** and **Azure** cloud services.
+- Contributing to open-source security and cloud projects.
+
+## 📜 Projects
+- very soon...
+  
+## 💬 Get in Touch
+Feel free to connect with me! I'm always open to learning, collaborating, and discussing projects in **Networking**, **Cybersecurity**, and **Cloud Technologies**.
+
+- LinkedIn: https://www.linkedin.com/premofficial
+- Email: siv.sin8@gmail.com
+
+---
+
+*Note: This is a work in progress, and I’ll continue to update it with new projects and learnings.*
